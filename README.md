@@ -120,48 +120,6 @@ src/
 
 ---
 
-## Roadmap
-
-### Phase 1: Foundation
-- [ ] Project setup with Vite + React + TypeScript
-- [ ] Basic UI layout (Header, Footer, Navigation)
-- [ ] Landing page design
-- [ ] Basic scan input form
-
-### Phase 2: Core Features
-- [ ] Public scan functionality
-- [ ] Basic vulnerability detection results display
-- [ ] Scan results page
-- [ ] Error handling and loading states
-
-### Phase 3: User Authentication
-- [ ] User registration
-- [ ] User login/logout
-- [ ] Password reset flow
-- [ ] Session management
-
-### Phase 4: Registered User Features
-- [ ] User dashboard
-- [ ] Detailed security analysis
-- [ ] Scan history management
-- [ ] PDF report generation
-- [ ] Email notifications
-
-### Phase 5: Premium Features
-- [ ] Subscription/payment integration
-- [ ] Advanced scanning options
-- [ ] API access implementation
-- [ ] Custom security rules
-- [ ] Priority queue system
-
-### Phase 6: Polish & Scale
-- [ ] Performance optimization
-- [ ] Responsive design improvements
-- [ ] Accessibility improvements
-- [ ] Unit and integration tests
-
----
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
