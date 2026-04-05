@@ -60,7 +60,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourorg/sscan.git
+git clone https://github.com/nodevid/sscan.git
 
 # Navigate to the project directory
 cd sscan
